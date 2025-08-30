@@ -10,7 +10,6 @@ Your encouragement and support throughout Google Summer of Code has been invalua
 
 - **Name:** Hitarth Singh Rajput
 - **Email:** [goforhitarth@gmail.com](mailto:goforhitarth@gmail.com)
-- **Phone:** [+91 6264658180](tel:+916264658180)
 - **Location:** Lucknow, Uttar Pradesh, India
 
 ### Social Media
