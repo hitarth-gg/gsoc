@@ -121,7 +121,7 @@ This was a great addition to Devtron, implemented using UUIDs. The `renderer` pr
 
 On the frontend, Devtron links `request` and `response` events using the same UUID, allowing users to easily navigate back and forth between them.
 
-<img width="1283" height="423" alt="devtron-1" src="https://gist.github.com/user-attachments/assets/5cd0ccde-94ec-44e9-bdac-602dab36d338" />
+<img width="1283" height="423" alt="devtron-1" src="https://github.com/user-attachments/assets/0b8b966c-8aa8-416e-a0e3-de7802e7d023" />
 
 ### Devtron Extension
 
@@ -129,9 +129,9 @@ The Devtron extension is built with [Manifest Version 3](https://developer.chrom
 
 Some additional features were also added, such as light and dark theme support, the ability to dock the Details Panel to the bottom or the right, and a “lock to bottom” option that automatically scrolls to newly added events.
 
-<img width="1284" height="581" alt="devtron-2" src="https://gist.github.com/user-attachments/assets/961f3a7c-f6e9-458e-8b95-558ea4b1017c" />
+<img width="1284" height="581" alt="devtron-2" src="https://github.com/user-attachments/assets/a9932a4b-8861-40a5-8f4e-79bd5a34495d" />
 
-<img width="1035" height="545" alt="devtron-4" src="https://gist.github.com/user-attachments/assets/d2138453-108c-4bf6-8f21-ca70c0d7f745" />
+<img width="1035" height="385" alt="devtron-3" src="https://github.com/user-attachments/assets/41ac4d78-9063-4c2d-93dc-b8d8c65971ad" />
 
 One challenge encountered during development was that Devtron’s Service Worker would terminate after a period of inactivity. This was resolved by keeping it alive using [`serviceWorker.startTask()`](https://www.electronjs.org/docs/latest/api/service-worker-main#serviceworkerstarttask-experimental) .
 
