@@ -1,4 +1,5 @@
 # GSoC 2025 with Electron
+<img width="1500" height="326" alt="gsoc 2025" src="https://github.com/user-attachments/assets/7e4a40b7-f9e3-4d33-86da-f2931e2aa1ee" />
 
 ## General Links
 
