@@ -170,6 +170,8 @@ Below is a list of all contributions made to [electron/devtron](https://github.c
 [#281](https://github.com/electron/devtron/pull/281): fix: correct return type of `getEvents()` function <br/>
 [#284](https://github.com/electron/devtron/pull/284): feat: add filtering support to event grid <br/>
 [#285](https://github.com/electron/devtron/pull/285): fix: move "types" field above "import" in package exports <br/>
+[#290](https://github.com/electron/devtron/pull/290): test: extend wait time to capture devtron SW reliably <br/>
+[#291](https://github.com/electron/devtron/pull/291): ci: run tests on Ubuntu and Windows <br/>
 
 ### Open Pull Requests (at the time of writing)
 
